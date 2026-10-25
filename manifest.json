@@ -1,0 +1,71 @@
+{
+ "updated": "2026-10-25",
+ "packs": {
+  "daehan_jun2": {
+   "v": 1,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@v1/packs/daehan_jun2.zip",
+   "bytes": 269974,
+   "count": 18
+  },
+  "daehan_2": {
+   "v": 1,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@v1/packs/daehan_2.zip",
+   "bytes": 2533754,
+   "count": 172
+  },
+  "daehan_jun1": {
+   "v": 1,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@v1/packs/daehan_jun1.zip",
+   "bytes": 7474484,
+   "count": 497
+  },
+  "daehan_1": {
+   "v": 1,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@v1/packs/daehan_1.zip",
+   "bytes": 14489474,
+   "count": 996
+  },
+  "daehan_sabum": {
+   "v": 1,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@v1/packs/daehan_sabum.zip",
+   "bytes": 6219606,
+   "count": 439
+  },
+  "eomun_2": {
+   "v": 1,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@v1/packs/eomun_2.zip",
+   "bytes": 8166176,
+   "count": 535
+  },
+  "eomun_1": {
+   "v": 1,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@v1/packs/eomun_1.zip",
+   "bytes": 16117062,
+   "count": 1143
+  },
+  "eomun_junteuk": {
+   "v": 1,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@v1/packs/eomun_junteuk.zip",
+   "bytes": 5499534,
+   "count": 362
+  },
+  "eomun_teuk": {
+   "v": 1,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@v1/packs/eomun_teuk.zip",
+   "bytes": 1374322,
+   "count": 98
+  },
+  "daehan_8": {
+   "v": 2,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@p2/packs/daehan_8-v2.zip",
+   "bytes": 346990,
+   "note": "5안 그림체(한복·파스텔) + 구성 풀이 맞춤"
+  },
+  "eomun_8": {
+   "v": 2,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@p2/packs/eomun_8-v2.zip",
+   "bytes": 300690,
+   "note": "5안 그림체(한복·파스텔) + 구성 풀이 맞춤"
+  }
+ }
+}
