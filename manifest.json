@@ -73,5 +73,12 @@
    "bytes": 29816,
    "note": "5안 그림체 + 年(벼를 지고 가는 농부)"
   }
+ },
+ "chars": {
+  "5e74": {
+   "v": 2,
+   "url": "https://cdn.jsdelivr.net/gh/karrel84/appahanja-pictures@p4/chars/5e74-v2.webp",
+   "c": "年"
+  }
  }
 }
